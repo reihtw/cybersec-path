@@ -36,7 +36,7 @@ Sem mais delongas, te desejo bons estudos!
   - Segurança da informação geral
     - [ ] FGV Nic.Br - Segurança Digital: https://educacao-executiva.fgv.br/cursos/online/curta-media-duracao-online/seguranca-digital
     - [ ] FGV Nic.Br - Termos de Uso e Políticas de Privacidade: https://educacao-executiva.fgv.br/cursos/online/curta-media-duracao-online/termos-de-uso-e-politicas-de-privacidade
-    - [ ] Netacad - Introduction to Cybersecurity: https://www.netacad.com/courses/cybersecurity/introduction-cybersecurity
+    - [ x ] Netacad - Introduction to Cybersecurity: https://www.netacad.com/courses/cybersecurity/introduction-cybersecurity
   - Sistemas Operacionais Windows
     - [ ] MSLearn - Path Microsoft 365 (9 Módulos): https://docs.microsoft.com/en-us/learn/paths/m365-getmodern/
   - Sistemas Operacionais Linux
